@@ -1,0 +1,9 @@
+*body{
+    background-color: red;
+}
+
+.container{
+    text-align: center;
+    display: grid;
+    background-color: #190375;
+}
